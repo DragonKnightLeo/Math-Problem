@@ -1,0 +1,39 @@
+{
+  "CustomerJohn": [
+    {
+      "month": "April",
+      "transaction": 1,
+      "price": 57
+    },
+    {
+      "month": "April",
+      "transaction": 2,
+      "price": 89
+    },
+    {
+      "month": "May",
+      "transaction": 1,
+      "price": 163
+    },
+    {
+      "month": "May",
+      "transaction": 2,
+      "price": 43
+    },
+    {
+      "month": "May",
+      "transaction": 3,
+      "price": 221
+    },
+    {
+      "month": "June",
+      "transaction": 1,
+      "price": 99
+    },
+    {
+      "month": "June",
+      "transaction": 2,
+      "price": 201
+    }
+  ]
+}
